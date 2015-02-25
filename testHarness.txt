@@ -1,0 +1,21 @@
+CS2010 Lab 6 
+=============================
+
+A0108165J
+
+TONG Haowen Joel
+
+## Installation
+
+Test harness not required, as specified by IVLE forum post.
+
+Run
+
+    $ mvn install
+    
+
+## Execution 
+
+Run
+
+    $ java -jar lab06-1.0-SNAPSHOT-jar-with-dependencies.jar
